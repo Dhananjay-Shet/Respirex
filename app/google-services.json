@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "457950084226",
+    "firebase_url": "https://respirex-data-default-rtdb.firebaseio.com",
+    "project_id": "respirex-data",
+    "storage_bucket": "respirex-data.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457950084226:android:fb75ffb6115794e889089b",
+        "android_client_info": {
+          "package_name": "com.android.respirex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457950084226-82nbvghji3bjsg844os7a3p92h2r2qf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm-nu9hZKmc-X_WOp0ejNGwERzhOcz3ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457950084226-82nbvghji3bjsg844os7a3p92h2r2qf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457950084226:android:47c8faffca286ef589089b",
+        "android_client_info": {
+          "package_name": "com.respirex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457950084226-8ugfqo6c0lcj4hlva3p4ug05fpimhisl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.respirex",
+            "certificate_hash": "03f00692b33f479a2090a017c95ea8e851f206f6"
+          }
+        },
+        {
+          "client_id": "457950084226-82nbvghji3bjsg844os7a3p92h2r2qf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm-nu9hZKmc-X_WOp0ejNGwERzhOcz3ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457950084226-82nbvghji3bjsg844os7a3p92h2r2qf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
